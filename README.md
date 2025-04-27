@@ -124,12 +124,6 @@ Every Pull Request must:
 
 ## 📸 Screenshots or Evidence (if applicable)
 
-## ✅ PR Checklist
-- [ ] Monday Item ID is included in the PR description.
-- [ ] All tests pass.
-- [ ] Linting and formatting applied.
-- [ ] Code is self-reviewed.
-- [ ] Documentation updated (if needed).
 
 ## 🧹 Reviewer Notes
 > (Optional for reviewers.)

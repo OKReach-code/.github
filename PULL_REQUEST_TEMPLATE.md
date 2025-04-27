@@ -7,7 +7,7 @@ Describe **briefly** what your pull request does and why:
 ---
 
 ## 🔗 Linked Monday Task
-- [x] **Monday Item ID**: <!-- Example: 1931962436 -->
+- [x] **Monday Item ID**: 
 - [x] **Link to Monday Item**: [Paste Monday Task Link Here](https://yourteam.monday.com/boards/board-id/pulses/item-id)
 
 ---
